@@ -1,12 +1,12 @@
 # Open KJV Privacy Policy
 
-*Effective October 17, 2026*
+*Effective November 15, 2026*
 
 Open KJV is a free King James Bible app for iPhone and iPad. It is built to keep your reading private: **Open KJV does not collect, store on any server, share or sell any information about you.** There are no accounts, no ads, no analytics and no tracking.
 
-## What stays on your device
+## Where what you make is kept
 
-Everything you make in the app stays on your iPhone or iPad:
+Everything you make in the app is kept on your iPhone or iPad:
 
 - highlights, notes, prayers and bookmarks
 - reading plans and reading progress
@@ -14,7 +14,9 @@ Everything you make in the app stays on your iPhone or iPad:
 - your settings
 - feedback reports you choose to keep
 
-None of this is sent anywhere by the app. It is removed if you delete the app. You can make a backup in **More › Backup**; a backup is a file or text that you save or send yourself.
+If you're signed in to iCloud, the app also keeps a copy of your highlights, notes, bookmarks, plans, studies and memory verses in **your own iCloud account**, so your iPhone and iPad stay in step. That copy is private to your Apple Account: the developer can't see or read it. You can turn this off in **More › Backup and restore › Sync with iCloud**. Nothing is sent anywhere else.
+
+Deleting the app removes what is on that device; the iCloud copy stays with your Apple Account until you turn sync off. You can also make a backup in **More › Backup and restore**; a backup is a file or text that you save or send yourself.
 
 The Bible text, commentaries, confessions, pictures, music and reading voices are all included in the app, so it works without an internet connection and makes no network requests while you use it.
 
