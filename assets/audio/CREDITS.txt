@@ -1,0 +1,17 @@
+Sound behind the reading
+
+J. S. Bach, Goldberg Variations, BWV 988: Aria; Variations 13, 15, 21 and 25; Aria da capo.
+Performed by Kimiko Ishizaka, from "The Open Goldberg Variations" (2012),
+released into the public domain under CC0 1.0 Universal.
+Source: https://archive.org/details/The_Open_Goldberg_Variations-11823
+
+J. S. Bach, The Well-Tempered Clavier, Book 1: Preludes 1 (C major, BWV 846), 8 (E-flat minor, BWV 853),
+9 (E major, BWV 854), 13 (F-sharp major, BWV 858), 22 (B-flat minor, BWV 867) and 24 (B minor, BWV 869).
+Performed by Kimiko Ishizaka, from "The Open Well-Tempered Clavier" (2015), released into the public
+domain (CC0 1.0 Universal; marked Public Domain on the Internet Archive).
+Source: https://archive.org/details/bach-well-tempered-clavier-book-1
+
+Both re-encoded to AAC for the app from the original files; otherwise unaltered.
+
+Rain, a stream and wind (ambient-*.m4a) were made for Open KJV from shaped noise by
+scripts/ambient/make_ambient.py; no recordings are used. They are part of this project.
