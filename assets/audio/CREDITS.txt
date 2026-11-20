@@ -15,3 +15,19 @@ Both re-encoded to AAC for the app from the original files; otherwise unaltered.
 
 Rain, a stream and wind (ambient-*.m4a) were made for Open KJV from shaped noise by
 scripts/ambient/make_ambient.py; no recordings are used. They are part of this project.
+
+Organ, strings, cello, guitar, chant and choir (organ-*, strings-*, cello-*, guitar-*, chant-*, choir-*.m4a),
+from Wikimedia Commons; each leveled, faded at the ends and re-encoded to AAC for the app, otherwise unaltered:
+- J. S. Bach, "Ich ruf zu dir, Herr Jesu Christ", BWV 639. Yeonju Sarah Kim, Evangelienorgel, Salzburg Cathedral.
+  CC0. https://commons.wikimedia.org/wiki/File:Heilig-Geist-Orgel_-_J_S_Bach-_Ich_ruf_zu_dir,_Herr_Jesu_Christ_BWV_639,_gespielt_von_Yeonju_Sarah_Kim,_Registrierung_u_a_Cornet_2_2_3′_-_Teilausschnitt_aus_STE-015.ogg
+- J. S. Bach, Air from Orchestral Suite No. 3, BWV 1068. Air Force Strings, United States Air Force Band.
+  Public domain (work of the U.S. government). https://commons.wikimedia.org/wiki/File:Air_-_Air_Force_Strings_-_United_States_Air_Force_Band.mp3
+- F. Chopin, Sonata for Cello and Piano in G minor, Op. 65: III. Largo. Musopen.
+  CC0. https://commons.wikimedia.org/wiki/File:Sonata_for_Piano_and_Cello_in_G_Minor,_Op._65_-_III._Largo.mp3
+- Anonymous, Romance (Jeux interdits). Jim Greeninger, guitar, via Musopen.
+  CC0. https://commons.wikimedia.org/wiki/File:Romance_Anónimo_(Jeux_interdits).ogg
+- Veni Sancte Spiritus (Gregorian chant). Sung by Membeth.
+  Public domain. https://commons.wikimedia.org/wiki/File:Veni.sancte.spiritus.ogg
+- G. P. da Palestrina, "Sicut lilium inter spinas". The Tudor Consort.
+  CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/), credit: The Tudor Consort.
+  https://commons.wikimedia.org/wiki/File:The_Tudor_Consort_-_01_-_Palestrina_-_Sicut_lilium_inter_spinas.ogg
